@@ -1,0 +1,37 @@
+﻿Name,Type,Mass (ME),Radius (RE),Flux (SE),Teq (K),Period (days),Distance (ly),ESI
+001. Kepler-452 b,G-Warm Superterran,—,1.63,1.11,261,384.8,1799,0.83
+002. Kepler-62 e,K-Warm Superterran,—,1.61,1.15,264,122.4,981,0.83
+003. Kepler-1652 b,M-Warm Superterran,—,1.6,0.84,244,38.1,822,0.83
+004. Kepler-1544 b,K-Warm Superterran,—,1.78,0.9,248,168.8,1092,0.8
+005. Kepler-296 e,M-Warm Superterran,—,1.52,1.5,276,34.1,737,0.8
+006. Kepler-283 c,K-Warm Superterran,—,1.82,0.9,248,92.7,1526,0.79
+007. K2-296 b,M-Warm Superterran,—,1.87,1.15,264,28.2,519,0.78
+008. Kepler-1410 b,K-Warm Superterran,—,1.78,1.34,274,60.9,1196,0.78
+009. K2-3 d,M-Warm Superterran,2.8,1.65,1.5,282,44.6,144,0.78
+010. Kepler-1638 b,G-Warm Superterran,—,1.87,1.39,276,259.3,4973,0.76
+011. Kepler-296 f,M-Warm Superterran,—,1.8,0.66,225,63.3,737,0.75
+012. Kepler-440 b,K-Warm Superterran,—,1.91,1.44,273,101.1,981,0.75
+013. Kepler-705 b,M-Warm Superterran,—,2.11,0.83,243,56.1,903,0.74
+014. Kepler-1653 b,K-Warm Superterran,—,2.17,1.04,258,140.3,2461,0.74
+015. GJ 832 c,M-Warm Superterran,≥5.40,—,0.99,253,35.7,16,0.74
+016. Kepler-1606 b,G-Warm Superterran,—,2.07,1.41,277,196.4,2710,0.73
+017. Kepler-1090 b,G-Warm Superterran,—,2.25,1.2,267,198.7,2800,0.72
+018. Kepler-61 b,K-Warm Superterran,—,2.15,1.39,273,59.9,1092,0.72
+019. K2-18 b,M-Warm Superterran,8.92,2.37,1.08,257,32.9,124,0.71
+020. Kepler-443 b,K-Warm Superterran,—,2.35,0.89,247,177.7,2615,0.71
+021. Kepler-1701 b (N),K-Warm Superterran,—,2.22,1.37,275,169.1,1904,0.71
+022. Kepler-22 b,G-Warm Superterran,—,2.38,1.1,261,289.9,635,0.71
+023. LHS 1140 b,M-Warm Superterran,6.98,1.73,0.5,214,24.7,49,0.7
+024. Kepler-1552 b,K-Warm Superterran,—,2.47,1.1,261,184.8,2507,0.7
+025. K2-9 b,M-Warm Superterran,—,2.25,1.45,279,18.4,270,0.7
+026. Kepler-1540 b,K-Warm Superterran,—,2.49,0.92,250,125.4,799,0.7
+027. GJ 180 c,M-Warm Superterran,≥6.40,—,0.78,239,24.3,39,0.7
+028. Kepler-1632 b,F-Warm Superterran,—,2.47,1.27,270,448.3,2337,0.69
+029. Kepler-298 d,K-Warm Superterran,—,2.5,1.29,271,77.5,1689,0.68
+030. GJ 163 c,M-Warm Superterran,≥6.80,—,1.41,277,25.6,49,0.67
+031. HD 40307 g,K-Warm Superterran,≥7.09,—,0.67,226,197.8,42,0.66
+032. K2-288 B b,M-Warm Superterran,—,1.91,0.44,207,31.4,214,0.65
+033. GJ 3293 d,M-Warm Superterran,≥7.60,—,0.59,223,48.1,66,0.63
+034. GJ 229 A c (N),M-Warm Superterran,≥7.27,—,0.53,216,122,19,0.62
+035. Kepler-174 d,K-Warm Superterran,—,2.19,0.43,206,247.4,1254,0.61
+036. GJ 357 d,M-Warm Superterran,≥6.10,—,0.38,200,55.7,31,0.58
